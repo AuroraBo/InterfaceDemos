@@ -1,0 +1,35 @@
+{
+	"App.User.LoginExt":{
+                            "ret": 200, "data": 
+                            {
+                                "err_code": 0, "err_msg": "", 
+                                "uuid": "86B8947D5A871400C9B3CC00505743CE", 
+                                "token": "9829F3F25DDCA09844CAC78FED8DFA5D622C18F33B7A1BF965156351F476C9AE", "role": "admin"
+                            }, 
+                            "msg": "V1.4.12 小白开放接口 App.User.LoginExt"
+                        },
+	"App.User.Profile":{
+                            "ret": 200, "data": 
+                            {
+                                "err_code": 0, "err_msg": "", "info": 
+                                {
+                                    "uuid": "86B8947D5A871400C9B3CC00505743CE", 
+                                    "username": "h960107", "role": "admin", "rolename": "管理员", 
+                                    "register_time": "2020-01-10 10:29:48", "register_ip": "221.221.157.144", 
+                                    "ext_info": 
+                                    {
+                                        "yesapi_avatar": "", "yesapi_nickname": "", 
+                                        "yesapi_email": "", "yesapi_sex": "", "yesapi_real_name": "", 
+                                        "yesapi_points": 0, "yesapi_reg_source": "", "yesapi_reg_note": "", 
+                                        "yesapi_mobile": "", "yesapi_expiration_time": ""
+                                    }}}, 
+                            "msg": "V1.4.12 小白开放接口 App.User.Profile"
+                        },
+	"App.User.Check":{
+                        "ret": 200, "data": 
+                        {
+                            "err_code": 0, "err_msg": ""
+                        }, 
+                        "msg": "V1.4.12 小白开放接口 App.User.Check"
+                    }
+}
